@@ -1,5 +1,4 @@
 
-
 # Terminal Music Player
 
 Downloads and plays your music in one go in a handy terminal.
